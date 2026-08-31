@@ -1,8 +1,4 @@
 //them mot tin nhan moiw
-#include <REGX52.H>
-// LCD I2C
-sbit SCL = P0^6;      // Chan xung clock I2C
-sbit SDA = P0^7;      // Chan du lieu I2C
 
 // 74HC165 
 sbit DU_LIEU_165 = P3^7;   // Chan DATA doc tu 74HC165
