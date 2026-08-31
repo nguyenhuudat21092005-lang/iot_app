@@ -1,3 +1,4 @@
+//them mot tin nhan moiw
 #include <REGX52.H>
 // LCD I2C
 sbit SCL = P0^6;      // Chan xung clock I2C
